@@ -7,4 +7,4 @@ Para probar extraer "Calendario" y subir a servidor.
 
 Aparte importar base de datos con .sql adjunto dentro del directorio "Calendario".
 
-Finalmente ejecutar en navegador.
+Finalmente ejecutar "calendario.html" en navegador.
